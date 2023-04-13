@@ -28,7 +28,7 @@
   - Checking overnight Slack, Email, News, etc.
 * Kid Responsiblities:  6:00 AM EST - 7:15 AM EST
   - Getting kids off to school
-* Focsed Workday Prep:  7:10 AM EST - 9:00 AM EST
+* Focused Workday Prep:  7:10 AM EST - 9:00 AM EST
   - Producing work product, killing assigned tasks
 * Team Availablity:  9:00 AM EST - 4:00 PM EST
   - Meetings, ad hoc requests, tasks, etc.
@@ -45,7 +45,7 @@
 - Agnostic, best tool for the job
 
 **Athlete that mirrors me as an Engineer**
-- Jim "crash" Jenson
+- Jim "Crash" Jenson
 
 
 
