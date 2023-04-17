@@ -24,16 +24,22 @@
 * Excitable (I lose myself in the build)
 
 **Availablity :**
-* Getting Started: 5:00 AM EST - 6:00 AM EST
-  - Checking overnight Slack, Email, News, etc.
+* Getting Started: 4:30 AM EST - 6:00 AM EST
+  - Checking and responding to overnight Slack, Email, News, etc.
 * Kid Responsiblities:  6:00 AM EST - 7:15 AM EST
   - Getting kids off to school
+  - Available but distracted
 * Focused Workday Prep:  7:10 AM EST - 9:00 AM EST
-  - Producing work product, killing assigned tasks
+  - Producing work product
+  - Completing assigned tasks
+  - Generally heads down
 * Team Availablity:  9:00 AM EST - 4:00 PM EST
-  - Meetings, ad hoc requests, tasks, etc.
+  - Meetings
+  - Ad hoc requests
+  - Tasks
 * Wrapping up day:  4:00 PM EST - 5:00 PM EST
-  - Usually avoid meetings this late in the day, attempt to set next day up for success
+  - Usually avoid meetings this late in the day
+  - Attempt to set next day up for success
 
 **Communication methods**
 - Calendar - wide open
