@@ -7,14 +7,14 @@
 **Who am I?**
 
 * Married (Jenni)
-* Three girls [Innis, Conall, Maebh]
+* Three girls (Innis, Conall, Maebh)
 * Love live music (really any music)
 * Fanatical about my Hokies and Dolphins
 * Live in the country, where my closest neighbors are deers, foxes and bears
 
 **Where have I been?**
 * Experienced various company dynamics: Start-ups, Non-profit, Big Consulting, etc.
-* Worked across various industries: Telecomm, Media, Advertising, HR Tech, Real Estate
+* Worked across various industries: Telecomm, Media, Advertising, HR Tech, Real Estate, EdTech
 * Wore many hats: Developer, Founder, Executive, Advisor
 
 **What am I about?**
