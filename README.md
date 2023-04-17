@@ -109,30 +109,38 @@ People should feel free to approach me anytime, by any means they are comfortabl
 ## 🧰 : How I Work :
 
 **Which communication medium is best for what type of message(s); frequency and granularity?**
+
 * Calendar - wide open
 * Slack - async
 * Email - thoughts less than 10 sentences
 * Video -  Free form and/or meaty topics
  
  **Your “operating approach”?**
+ 
 Perfection is not attainable, but if we chase perfection we can catch excellence - ***Vince Lombardi***
  
 **How frequently do you like to meet and how should meetings be scheduled and organized?**
+
 The situation and topic should drive the frequency, a meeting's function should be to limit miscommunication and/or drive momentum
  
 **How do you stay organized?**
+
 I’m the most unorganized, organized person.  Always looking for that next tool that will pull it all together
  
 **How to earn a “gold star” with me?**
+
 Being an idea generator, an execution stalwart and/or a hand raiser ✋
  
 **What endears people to you?**
+
 I think the candid manner in which I speak, but it has also been known to be the reason people fall off me.
  
 **What people misunderstand about me?**
+
 That I’m actually a positive person
  
 **What do people misunderstand about you, and why?**
+
 My facial expression typically don’t reflect my mood.  I am usually pretty tight with my emotions and I use my facial expressions to hold those close to the vest.  But I’m working on it.
 
 <div id="header" align="center">
